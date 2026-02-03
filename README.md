@@ -16,6 +16,9 @@
 
 # Tools & Technologies
 . Power BI Desktop
+
 . Power Query
+
 . DAX
+
 . Excel/CSV/SQL Data Sources
