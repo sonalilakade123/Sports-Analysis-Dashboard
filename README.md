@@ -29,4 +29,4 @@
 
 . Dashboard: https://github.com/sonalilakade123/Sports-Analysis-Dashboard/blob/main/sportsdashboard.pbix
 
-. Image :
+. Image :https://github.com/sonalilakade123/Sports-Analysis-Dashboard/blob/main/Screenshot%20(7).png
