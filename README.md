@@ -28,3 +28,5 @@
 . Data: https://github.com/sonalilakade123/Sports-Analysis-Dashboard/blob/main/Sports_Analytics_Data.csv
 
 . Dashboard: https://github.com/sonalilakade123/Sports-Analysis-Dashboard/blob/main/sportsdashboard.pbix
+
+. Image :
