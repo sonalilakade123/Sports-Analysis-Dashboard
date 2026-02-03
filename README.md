@@ -13,3 +13,9 @@
 •	Win/Loss/Draw match ratio by team Player distribution by country.
 
 •	Tools Used: Power BI, DAX, Data Modelling.
+
+# Tools & Technologies
+. Power BI Desktop
+. Power Query
+. DAX
+. Excel/CSV/SQL Data Sources
